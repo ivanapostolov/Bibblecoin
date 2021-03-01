@@ -1,0 +1,3 @@
+# Bibblecoin
+
+Proof of concept
