@@ -1,9 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 class Transaction {
-    constructor(amount, payer, // public key
-    payee // public key
-    ) {
+    constructor(amount, payer, payee) {
         this.amount = amount;
         this.payer = payer;
         this.payee = payee;

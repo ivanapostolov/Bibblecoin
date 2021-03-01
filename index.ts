@@ -1,5 +1,3 @@
-import * as crypto from 'crypto';
-
 import Wallet from './Wallet';
 import Chain from './Chain';
 
